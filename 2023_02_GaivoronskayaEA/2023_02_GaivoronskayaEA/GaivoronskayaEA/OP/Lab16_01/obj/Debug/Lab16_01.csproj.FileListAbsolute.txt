@@ -1,0 +1,11 @@
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\bin\Debug\Lab16_01.exe.config
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\bin\Debug\Lab16_01.exe
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\bin\Debug\Lab16_01.pdb
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\bin\Debug\OP.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\bin\Debug\OP.pdb
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\bin\Debug\OP.xml
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\obj\Debug\Lab16_01.csproj.AssemblyReference.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\obj\Debug\Lab16_01.csproj.CoreCompileInputs.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\obj\Debug\Lab16_01.csproj.Up2Date
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\obj\Debug\Lab16_01.exe
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab16_01\obj\Debug\Lab16_01.pdb

@@ -1,0 +1,15 @@
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\bin\Debug\net5.0\Lab11_03.exe
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\bin\Debug\net5.0\Lab11_03.deps.json
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\bin\Debug\net5.0\Lab11_03.runtimeconfig.json
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\bin\Debug\net5.0\Lab11_03.runtimeconfig.dev.json
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\bin\Debug\net5.0\Lab11_03.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\bin\Debug\net5.0\Lab11_03.pdb
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\Lab11_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\Lab11_03.AssemblyInfoInputs.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\Lab11_03.AssemblyInfo.cs
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\Lab11_03.csproj.CoreCompileInputs.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\Lab11_03.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\refint\Lab11_03.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\Lab11_03.pdb
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\Lab11_03.genruntimeconfig.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab11_03\obj\Debug\net5.0\ref\Lab11_03.dll

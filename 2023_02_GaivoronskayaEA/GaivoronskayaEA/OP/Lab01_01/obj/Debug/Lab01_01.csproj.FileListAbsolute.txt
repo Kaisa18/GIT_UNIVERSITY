@@ -1,0 +1,14 @@
+C:\Users\pmstud\Desktop\GaivoronskayaEA\Lab01_01\bin\Debug\Lab01_01.exe.config
+C:\Users\pmstud\Desktop\GaivoronskayaEA\Lab01_01\bin\Debug\Lab01_01.exe
+C:\Users\pmstud\Desktop\GaivoronskayaEA\Lab01_01\bin\Debug\Lab01_01.pdb
+C:\Users\pmstud\Desktop\GaivoronskayaEA\Lab01_01\obj\Debug\Lab01_01.csprojResolveAssemblyReference.cache
+C:\Users\pmstud\Desktop\GaivoronskayaEA\Lab01_01\obj\Debug\Lab01_01.exe
+C:\Users\pmstud\Desktop\GaivoronskayaEA\Lab01_01\obj\Debug\Lab01_01.pdb
+C:\Users\pmstud\Desktop\GaivoronskayaEA\OP\Lab01_01\bin\Debug\Lab01_01.exe.config
+C:\Users\pmstud\Desktop\GaivoronskayaEA\OP\Lab01_01\obj\Debug\Lab01_01.exe
+C:\Users\pmstud\Desktop\GaivoronskayaEA\OP\Lab01_01\obj\Debug\Lab01_01.pdb
+C:\Users\pmstud\Desktop\GaivoronskayaEA\OP\Lab01_01\bin\Debug\Lab01_01.exe
+C:\Users\pmstud\Desktop\GaivoronskayaEA\OP\Lab01_01\bin\Debug\Lab01_01.pdb
+C:\Users\pmstud\Desktop\GaivoronskayaEA\OP\Lab01_01\obj\Debug\Lab01_01.csprojResolveAssemblyReference.cache
+C:\Users\Екатерина\Desktop\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab01_01\obj\Debug\Lab01_01.exe
+C:\Users\Екатерина\Desktop\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab01_01\obj\Debug\Lab01_01.pdb

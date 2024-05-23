@@ -1,0 +1,14 @@
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\bin\Debug\net8.0\Lab15_01.exe
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\bin\Debug\net8.0\Lab15_01.deps.json
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\bin\Debug\net8.0\Lab15_01.runtimeconfig.json
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\bin\Debug\net8.0\Lab15_01.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\bin\Debug\net8.0\Lab15_01.pdb
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\Lab15_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\Lab15_01.AssemblyInfoInputs.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\Lab15_01.AssemblyInfo.cs
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\Lab15_01.csproj.CoreCompileInputs.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\Lab15_01.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\refint\Lab15_01.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\Lab15_01.pdb
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\Lab15_01.genruntimeconfig.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab15_01\obj\Debug\net8.0\ref\Lab15_01.dll

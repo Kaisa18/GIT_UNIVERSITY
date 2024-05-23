@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EB53668-F281-4C5F-8576-E51C87A64833}|OP\\Lab16_01\\Lab16_01.csproj|c:\\users\\osnov\\desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_gaivoronskayaea\\2023_02_gaivoronskayaea\\gaivoronskayaea\\op\\lab16_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EB53668-F281-4C5F-8576-E51C87A64833}|OP\\Lab16_01\\Lab16_01.csproj|solutionrelative:op\\lab16_01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{067D72A0-176E-4177-A36D-17DB68BA0D00}|OP\\Lab16_03\\Lab16_03.csproj|c:\\users\\osnov\\desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_gaivoronskayaea\\2023_02_gaivoronskayaea\\gaivoronskayaea\\op\\lab16_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{067D72A0-176E-4177-A36D-17DB68BA0D00}|OP\\Lab16_03\\Lab16_03.csproj|solutionrelative:op\\lab16_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382B93D4-77CE-4393-B466-44ACA53916D6}|OP\\Lab16_02\\Lab16_02.csproj|c:\\users\\osnov\\desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_gaivoronskayaea\\2023_02_gaivoronskayaea\\gaivoronskayaea\\op\\lab16_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{382B93D4-77CE-4393-B466-44ACA53916D6}|OP\\Lab16_02\\Lab16_02.csproj|solutionrelative:op\\lab16_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7790D33E-AA2F-43D0-8BEE-7256B1748DFD}|OP\\OP\\OP.csproj|C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\op\\op\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7790D33E-AA2F-43D0-8BEE-7256B1748DFD}|OP\\OP\\OP.csproj|solutionrelative:op\\op\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E128570F-26A0-4A5A-BBD7-2818A0CE3AA1}|OP\\Lab17_04\\Lab17_04.csproj|c:\\users\\osnov\\desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_gaivoronskayaea\\2023_02_gaivoronskayaea\\gaivoronskayaea\\op\\lab17_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E128570F-26A0-4A5A-BBD7-2818A0CE3AA1}|OP\\Lab17_04\\Lab17_04.csproj|solutionrelative:op\\lab17_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B3ECDE-D0EE-457A-B45A-227811A3911D}|OP\\Lab18_02\\Lab18_02.csproj|C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\op\\lab18_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B3ECDE-D0EE-457A-B45A-227811A3911D}|OP\\Lab18_02\\Lab18_02.csproj|solutionrelative:op\\lab18_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601667AC-39AD-41BC-8D62-02E05E899978}|OP\\Lab18_03\\Lab18_03.csproj|C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\op\\lab18_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{601667AC-39AD-41BC-8D62-02E05E899978}|OP\\Lab18_03\\Lab18_03.csproj|solutionrelative:op\\lab18_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797BB0BF-BB39-4893-8BD0-861148CB345F}|OP\\Lab17_03\\Lab17_03.csproj|C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\op\\lab17_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797BB0BF-BB39-4893-8BD0-861148CB345F}|OP\\Lab17_03\\Lab17_03.csproj|solutionrelative:op\\lab17_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\OP\\Helper.cs",
+              "RelativeDocumentMoniker": "OP\\OP\\Helper.cs",
+              "ToolTip": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\OP\\Helper.cs",
+              "RelativeToolTip": "OP\\OP\\Helper.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAA3wAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T19:03:17.505Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab16_03\\Program.cs",
+              "RelativeDocumentMoniker": "OP\\Lab16_03\\Program.cs",
+              "ToolTip": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab16_03\\Program.cs",
+              "RelativeToolTip": "OP\\Lab16_03\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:24:48.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab16_02\\Program.cs",
+              "RelativeDocumentMoniker": "OP\\Lab16_02\\Program.cs",
+              "ToolTip": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab16_02\\Program.cs",
+              "RelativeToolTip": "OP\\Lab16_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:24:44.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab16_01\\Program.cs",
+              "RelativeDocumentMoniker": "OP\\Lab16_01\\Program.cs",
+              "ToolTip": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab16_01\\Program.cs",
+              "RelativeToolTip": "OP\\Lab16_01\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:24:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab17_04\\Program.cs",
+              "RelativeDocumentMoniker": "OP\\Lab17_04\\Program.cs",
+              "ToolTip": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab17_04\\Program.cs",
+              "RelativeToolTip": "OP\\Lab17_04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:32:06.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab17_03\\Program.cs",
+              "RelativeDocumentMoniker": "OP\\Lab17_03\\Program.cs",
+              "ToolTip": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab17_03\\Program.cs",
+              "RelativeToolTip": "OP\\Lab17_03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:22:50.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab18_03\\Program.cs",
+              "RelativeDocumentMoniker": "OP\\Lab18_03\\Program.cs",
+              "ToolTip": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab18_03\\Program.cs",
+              "RelativeToolTip": "OP\\Lab18_03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:00:19.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab18_02\\Program.cs",
+              "RelativeDocumentMoniker": "OP\\Lab18_02\\Program.cs",
+              "ToolTip": "C:\\Users\\osnov\\Desktop\\\u0441\u0430\u0448\u043A\u0430\\2023_02_GaivoronskayaEA\\2023_02_GaivoronskayaEA\\GaivoronskayaEA\\OP\\Lab18_02\\Program.cs",
+              "RelativeToolTip": "OP\\Lab18_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:37:23.394Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

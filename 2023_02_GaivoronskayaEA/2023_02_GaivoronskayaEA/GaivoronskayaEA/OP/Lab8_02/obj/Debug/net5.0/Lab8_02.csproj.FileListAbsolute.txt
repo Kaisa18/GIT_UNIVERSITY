@@ -1,0 +1,16 @@
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\bin\Debug\net5.0\Lab8_02.exe
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\bin\Debug\net5.0\Lab8_02.deps.json
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\bin\Debug\net5.0\Lab8_02.runtimeconfig.json
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\bin\Debug\net5.0\Lab8_02.runtimeconfig.dev.json
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\bin\Debug\net5.0\Lab8_02.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\bin\Debug\net5.0\Lab8_02.pdb
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\Lab8_02.csproj.AssemblyReference.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\Lab8_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\Lab8_02.AssemblyInfoInputs.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\Lab8_02.AssemblyInfo.cs
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\Lab8_02.csproj.CoreCompileInputs.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\Lab8_02.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\refint\Lab8_02.dll
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\Lab8_02.pdb
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\Lab8_02.genruntimeconfig.cache
+C:\Users\osnov\Desktop\сашка\2023_02_GaivoronskayaEA\2023_02_GaivoronskayaEA\GaivoronskayaEA\OP\Lab8_02\obj\Debug\net5.0\ref\Lab8_02.dll

@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OP</name>
+    </assembly>
+    <members>
+        <member name="T:GaivoronskayEA.OP.Helper">
+            <summary>
+            Класс-контейнер для разрабатываемых в курсе OP программ.
+            </summary>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.Head(System.Int32,System.String,System.String)">
+            <summary>
+            Вывод стандартной шапки
+            </summary>
+            <param name="nLub">номер работы</param>
+            <param name="num">подномер работы</param>
+            <param name="info">Информация</param>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.ReadArrayOfDouble">
+            <summary>
+            Организует ввод одномерного 
+            массива вещественных чисел с клавиатуры 
+            по одному элементу в строке
+            </summary>
+            <returns>Возвращает введенный с клавиатуры
+            массив вещественных чисел</returns>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.ReadArrayOfDouble(System.Int32)">
+            <summary>
+            Организует ввод одномерного 
+            массива вещественных чисел с клавиатуры 
+            по одному элементу в строке
+            </summary>
+            <param name="length">Длина массива</param>
+            <returns>Возвращает введенный с клавиатуры
+            массив вещественных чисел</returns>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.WriteArray(System.Double[])">
+            <summary>
+            Выводит массив в окно.
+            </summary>
+            <param name="array">Массив который будет выведен</param>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.ReadArrayOfInt">
+            <summary>
+            Организует ввод целочисленного массива с 
+            клавиатурой по одному элементу в строке
+            </summary>
+            <returns>Возвращет массив целых чисел</returns>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.ReadArrayOfInt(System.Int32)">
+            <summary>
+            Организует ввод одномерного 
+            массива целых чисел с клавиатуры 
+            по одному элементу в строке
+            </summary>
+            <param name="length">Длина массива</param>
+            <returns>Возвращает введенный с клавиатуры
+            массив целых чисел</returns>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.Factorial(System.Int32)">
+            <summary>
+            вычисление факториала
+            </summary>
+            <param name="f"></param>
+            <returns>возвращает значение числа</returns>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.MultiplicationTable">
+            <summary>
+            Вывод таблицы умножения до 9
+            </summary>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.TableFuncArctg(System.Double,System.Double,System.Double)">
+            <summary>
+            Расчет функции
+            </summary>
+            <param name="a">Левая граница отрезка</param>
+            <param name="b">Правая граница отрезка</param>
+            <param name="h">шаг</param>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.WriteArrayFile(System.String,System.Double[])">
+            <summary>
+            Выводит одномерный массив 
+            в текстовый файл
+            </summary>
+            <param name="path">Путь к файлу</param>
+            <param name="array">Одномерный массив, который будет выведен</param>
+        </member>
+        <member name="M:GaivoronskayEA.OP.Helper.ReadArrayFile(System.String)">
+            <summary>
+            Считывает одномерный массив вещественных чисел из текстового файла.
+            </summary>
+            <param name="path">Путь к файлу</param>
+            <returns>Возвращает считанный массив</returns>
+        </member>
+    </members>
+</doc>
